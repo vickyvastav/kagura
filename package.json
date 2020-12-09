@@ -1,5 +1,5 @@
 {
-  "name": "ELAINABOT",
+  "name": "KAGURA",
   "version": "10.0.0",
   "description": "THX FOR MHANKBARBAR AS MY FRIEND, REEDIT BY TOBZ",
   "main": "index.js",
@@ -57,7 +57,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TobyG74/ElainaBOT",
+    "url": "git+https://github.com/vickyvastav/kagura",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.9.0",
     "eslint-config-standard": "^14.1.1",
@@ -70,7 +70,7 @@
     "Whatsapp-Bot"
   ],
   "bugs": {
-    "url": "https://github.com/TobyG74/issues"
+    "url": "https://github.com/vickyvastav/kagura/issues"
   },
-  "homepage": "https://github.com/TobyG74/"
+  "homepage": "https://github.com/vickyvastav/kagura/"
 }
